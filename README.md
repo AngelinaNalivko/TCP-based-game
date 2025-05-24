@@ -16,7 +16,7 @@ Two players (or a player vs server) can play across different machines, either v
 * Python 3
 * `socket`, `threading`
 * Flet (for GUI)
-* LAN / TCP/IP
+* LAN | TCP/IP
 
 ## Versions
 ### Version 1: Console-based Tic-Tac-Toe
